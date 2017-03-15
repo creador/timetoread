@@ -1,0 +1,27 @@
+{
+  "name": "timetoread",
+  "version": "1.0.0",
+  "description": "Returns the time needed to read the given file or text block.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creador/timetoread.git"
+  },
+  "keywords": [
+    "time",
+    "required",
+    "read",
+    "text",
+    "block",
+    "file"
+  ],
+  "author": "Pablo Schaffner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creador/timetoread/issues"
+  },
+  "homepage": "https://github.com/creador/timetoread#readme"
+}
